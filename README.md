@@ -1,6 +1,6 @@
-Welcome to CodAxis Solutions! 👋
+Welcome to Codxis Solutions! 👋
 🌟 About Us
-At CodAxis Solutions, we are a dynamic team of 10-15 passionate professionals committed to turning innovative ideas into impactful digital solutions. Our expertise includes:
+At Codxis Solutions, we are a dynamic team of 10-15 passionate professionals committed to turning innovative ideas into impactful digital solutions. Our expertise includes:
 
 Web Development
 UI/UX Design
